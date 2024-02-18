@@ -4,6 +4,7 @@ The following notebook utilizes Pycaret python package to accomplish a compariti
 
 ## Dataset description-
 
+### [Link](https://archive.ics.uci.edu/dataset/292/wholesale+customers) to the dataset.
 ![Dataset](./public/dataset.PNG)
 
 ### Following Clustering models have been used-
